@@ -6,6 +6,10 @@ import StreamEdit from './streams/StreamEdit';
 import StreamDelete from './streams/StreamDelete';
 import StreamShow from './streams/StreamShow';
 import Header from './Header';
+// 351149860220-vl2j3gd2f8ih3706v3qocf27dqqv0q41.apps.googleusercontent.com
+
+
+// clirent secret: oiwRdJf1XbjrYpsg1tsInrDe
 
 const App = () => {
 	return (
